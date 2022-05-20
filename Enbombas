@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF: -1, ESPN
+https://ed4.zorrohd.nl/live/ST7488ab4dda3bcce.m3u8
+#EXTINF: -1, ESPN2
+https://tvnov-com-cuatro-1.herokuapp.com/play.php/https://edge4-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_spa=20001.m3u8
